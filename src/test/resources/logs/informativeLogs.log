@@ -1,0 +1,11 @@
+12:26:06.165 INFO  AUTOMATION - Suite iniciada: Default Suite
+12:26:08.130 INFO  AUTOMATION - Comenzando el test: ejercicio2
+12:26:08.155 INFO  AUTOMATION - Navegar heroku a https://the-internet.herokuapp.com/
+
+12:26:11.853 INFO  AUTOMATION - Navegar github a https://github.com/
+
+12:26:15.238 INFO  AUTOMATION - Regresar pagina anterior
+12:26:16.767 INFO  AUTOMATION - Obteniedo url actual
+12:26:16.776 INFO  AUTOMATION - Comparando url actural con la esperada
+12:26:16.788 INFO  AUTOMATION - Test exitoso: ejercicio2
+12:26:17.030 INFO  AUTOMATION - Suite finalizada: Default Suite
